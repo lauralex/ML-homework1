@@ -1,5 +1,6 @@
 name: homework1
 channels:
+  - pytorch
   - defaults
 dependencies:
   - python=3.9
