@@ -1,0 +1,13 @@
+name: homework1
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - scikit-learn
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
+  - pytorch
+  - matplotlib
+prefix: C:\Users\Authority\miniconda3\envs\homework1
